@@ -38,8 +38,13 @@
   <ItemGroup>
      <Compile Include="Assets/Course Library/Scripts/PlayerController.cs" />
      <Compile Include="Assets/Course Library/Scripts/RotateCamera.cs" />
+     <Compile Include="Assets/Challenge 4/Scripts/PlayerControllerX.cs" />
      <Compile Include="Assets/Course Library/Scripts/EnemyScript.cs" />
+     <Compile Include="Assets/Challenge 4/Scripts/RotateCameraX.cs" />
      <Compile Include="Assets/Course Library/Scripts/SpawnManger.cs" />
+     <Compile Include="Assets/Challenge 4/Scripts/SpawnManagerX.cs" />
+     <Compile Include="Assets/Challenge 4/Scripts/EnemyX.cs" />
+     <None Include="Assets/Course Library/_Source_Files/Materials/UnlitVertexColour_Alpha.shader" />
      <None Include="Assets/Course Library/_Source_Files/_LICENSE.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2021.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
